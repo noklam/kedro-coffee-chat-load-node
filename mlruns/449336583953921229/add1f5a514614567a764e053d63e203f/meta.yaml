@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Nok_Lam_Chan/dev/tmp/coffee-chat/mlruns/449336583953921229/add1f5a514614567a764e053d63e203f/artifacts
+end_time: 1709213874979
+entry_point_name: ''
+experiment_id: '449336583953921229'
+lifecycle_stage: active
+run_id: add1f5a514614567a764e053d63e203f
+run_name: __default__
+run_uuid: add1f5a514614567a764e053d63e203f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709213872363
+status: 4
+tags: []
+user_id: Nok_Lam_Chan
